@@ -1,21 +1,42 @@
 # PyRevit Extensions
 
-Developed by **Ryan Coulman**  
+Developed by **Ryan Coulman**
 
 ---
-### Revit Versions 
-These tools are mainly developed for Revit 2022 onwards 
+
+## Overview
+This repository contains custom extensions for **pyRevit**, designed to enhance productivity in **Revit** workflows. These tools are primarily developed for **Revit 2023** and later versions.
 
 ---
-####  Installation 
-First ensure that pyrevit is downloaded, then
 
-    ▶ Click the green button that says 'Code' 
-    ▶ Select download as a Zip
-    ▶ Extract the zip and drag 'myCustomExtension.Extension' into the file drirectory C:\Users\**<YourUserName>**\AppData\Roaming\pyRevit\Extensions  
-    ▶ Reload PyRevit
+## Installation Instructions
+
+To install the extensions, follow these steps:
+
+1. **Download PyRevit:** Ensure that you have [pyRevit](https://github.com/eirannejad/pyRevit) installed on your machine.
+   
+2. **Download the Extension:**
+   - Click the green **Code** button on this repository.
+   - Select **Download ZIP**.
+
+3. **Extract and Install:**
+   - Extract the downloaded ZIP file.
+   - Drag the `myCustomExtension.Extension` folder into the following directory:
+     ```
+     C:\Users\<YourUserName>\AppData\Roaming\pyRevit\Extensions
+     ```
+
+4. **Reload PyRevit:**
+   - Open or restart Revit and reload pyRevit to see the new extension available in the Revit toolbar.
 
 ---
-### Bugs
-If you happen to come across any bugs (or want a new feature) just let me know.
 
+## Bug Reporting and Feature Requests
+
+If you encounter any bugs or have suggestions for new features, just give me a shout. 
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
