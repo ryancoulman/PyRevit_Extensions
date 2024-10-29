@@ -22,10 +22,11 @@ To install the extensions, follow these steps:
 3. **Extract and Install:**
    - Extract the downloaded ZIP file.
    - Drag the `myCustomExtension.Extension` folder into the following directory:
+     
      ```
      C:\Users\<YourUserName>\AppData\Roaming\pyRevit\Extensions
      ```
-
+     
 4. **Reload PyRevit:**
    - Open or restart Revit and reload pyRevit to see the new extension available in the Revit toolbar.
 
