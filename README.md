@@ -13,7 +13,7 @@ This repository contains custom extensions for **pyRevit**, designed to enhance 
 
 To install the extensions, follow these steps:
 
-1. **Download PyRevit:** Ensure that you have [pyRevit](https://github.com/eirannejad/pyRevit) installed on your machine.
+1. **Download PyRevit:** Ensure that you have [pyRevit](https://github.com/pyrevitlabs/pyRevit/releases) installed on your machine.
    
 2. **Download the Extension:**
    - Click the green **Code** button on this repository.
