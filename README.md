@@ -17,5 +17,5 @@ First ensure that pyrevit is downloaded, then
 
 ---
 ### Bugs
-If you happen to come across any bugs (or want a new feature) just let me know
+If you happen to come across any bugs (or want a new feature) just let me know.
 
